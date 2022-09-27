@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrKimOlsson
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently studying to Frontend developer at KYH Stockholm.
-- 💞️ I’m looking to learn and earn more skills in order to evolve and become a better version of myself.
+- 💞️ I’m looking for a company where I can spend my LIA-period, (Lärande i arbete / Learning in Work) and hopefully more.
 - 📫 You can reach me at mr.kim.olsson@gmail.com
 
 <!---
